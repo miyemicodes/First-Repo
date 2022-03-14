@@ -1,0 +1,14 @@
+img {
+    height: 170px;
+    width: 150px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    border-radius: 170px;
+    p{
+         style="background-color:burlywood;"
+        margin: left 0.5em;
+        border-width: 2px;
+         border-colour: black;
+        line-height: 1.5em;
+    }

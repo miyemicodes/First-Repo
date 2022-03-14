@@ -1,0 +1,68 @@
+img {
+    height: 200px;
+    width: 150px;
+    object-fit: contain;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
+
+h1{
+    font-size: 35px, font-weight normal; 
+    font-family: Arial, Helvetica, sans-serif;
+    color:oldlace; background-color:sienna;
+    text-align: center;
+}
+
+body{ 
+    font-family:Verdana,
+}
+
+button {
+ color:saddlebrown;
+ background-color:rgb(247, 236, 146);
+ border-color:brown;
+ border-radius: 8px;
+ height: 28px;
+ cursor:pointer;
+ margin-right: 5px;
+ border-width: 1.2px;
+ transition: box-shadow 0.15s;
+}
+
+button:hover {
+ box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+button:active {
+    opacity: 0.5;
+}
+
+.search-bar {
+    margin-top: 15px;
+    height: 25px;
+    width: 350px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: sienna;
+    transition: 0.3s;
+}
+
+.search-bar:active{
+    opacity: 0.3;
+    border-color:antiquewhite;
+    display: block;
+}
+
+.book-preview{
+    width: 350px;
+    display:inline-block;  
+    vertical-align: top; 
+    margin-right: 10px;
+}
+
+.top-content{
+    display:block;  
+}

@@ -1,0 +1,15 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: top;
+  justify-content: top center;
+  background: rgb(119, 17, 85);
+  color: rgb(255, 255, 255);
+}
+
+img {
+  min-height: 200vh;
+  flex: none;
+  position: relative;
+  border-radius: 50px;
+}

@@ -1,0 +1,132 @@
+.subscribe-button {
+  background-color: rgb(201, 12, 12);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 105px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 7px;
+  font-size: 13px;
+  transition: 0.3s;
+}
+.subscribe-button:hover {
+  opacity: 0.6;
+}
+.subscribe-button:active {
+  opacity: o.2;
+}
+.join-button {
+  background-color: white;
+  color: rgb(6, 129, 185);
+  border-color: rgb(6, 129, 185);
+  height: 36px;
+  width: 54px;
+  border-radius: 5px;
+  border-width: 1.2px;
+  cursor: default;
+  font-size: 12px;
+  margin-right: 6 mpx;
+  transition: background-color 0.3s, color 0.5s;
+  text-decoration: solid;
+}
+.join-button:hover {
+  background-color: rgb(6, 129, 185);
+  color: white;
+}
+.join-button:active {
+  opacity: 0.5;
+}
+.tweet-button {
+  background-color: rgb(34, 149, 202);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 70px;
+  border-radius: 22px;
+  font-size: 13px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: box-shadow 0.15s;
+}
+.tweet-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+.Requestnow-button {
+  background-color: black;
+  color: white;
+  border: none;
+  height: 35px;
+  width: 110px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.AddtoCart-button {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  height: 30px;
+  width: 180px;
+  border: none;
+  cursor: default;
+  border-radius: 100px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+.Signup-button {
+  background-color: seagreen;
+  color: white;
+  height: 35px;
+  width: 80px;
+  border: none;
+  cursor: default;
+  border-radius: 7px;
+  margin-left: 10px;
+  font-weight: 1px;
+}
+.Getstarted-button {
+  margin-right: 5px;
+  border: none;
+  height: 30px;
+  width: 85px;
+  color: white;
+  border-radius: 3px;
+  font-size: 10px;
+  background-color: rgb(121, 82, 179);
+  font-weight: small;
+}
+.Download-button {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-radius: 5px;
+  font-size: 10px;
+  border-width: 1.4px;
+  height: 30px;
+  width: 85px;
+  font-weight: bold;
+  border-color: rgb(108, 117, 125);
+}
+.Applyoncompanywebsite-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  height: 30px;
+  width: 200px;
+  border: none;
+  cursor: default;
+  border-radius: 100px;
+  margin-left: 10px;
+  font-weight: small;
+  font-size: 13px;
+}
+.Save-button {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border-color: rgb(10, 102, 194);
+  height: 36px;
+  width: 74px;
+  border-radius: 18px;
+  border-width: 1.5px;
+  cursor: default;
+  font-size: 12px;
+  margin-left: 10px;
+  font-weight: bold;
+}
